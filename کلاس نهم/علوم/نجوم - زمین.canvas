@@ -1,0 +1,755 @@
+{
+  "edges": [
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "3f4ede16be2ab593",
+      "styleAttributes": {
+        "pathfindingMethod": null
+      },
+      "toFloating": false,
+      "toNode": "5eb2637a0f60a27b",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "4838548180e4ede0",
+      "toNode": "39c5e99d51225a8c",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "a70856379c684522",
+      "toNode": "144dcfb08de9d357",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "75cb8b440a526b4b",
+      "toNode": "c7d24f5df97cb201",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromFloating": false,
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "efd78b60db1d2db7",
+      "toNode": "e6f0eaaec3f97c1a",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "6b0366fcd777bfc6",
+      "toNode": "09573fd7204ee9a7",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "9941b961c43053f3",
+      "toNode": "78933e80915dfc8c",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "861187d96ef3c061",
+      "toNode": "8314325f71ca3c73",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "7051a1b90f763d07",
+      "toNode": "3c29817a18c0469c",
+      "toSide": "top"
+    },
+    {
+      "color": "1",
+      "fromNode": "4eafd218f15449a9",
+      "fromSide": "bottom",
+      "id": "a1131448d556ff42",
+      "toNode": "07aad2768327c100",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "80eaf4c9194f5367",
+      "fromSide": "bottom",
+      "id": "933d9683f792ff08",
+      "toNode": "6b35325b3ef76d77",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "936bf5ec2a6daba6",
+      "fromSide": "bottom",
+      "id": "7a9e7acd19e4dde8",
+      "toNode": "b638d22e07d107d8",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "b638d22e07d107d8",
+      "fromSide": "bottom",
+      "id": "18769f8358c3fd0f",
+      "toNode": "1067e9cb91f2364a",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "226e1366c139b74b",
+      "fromSide": "bottom",
+      "id": "0db657999259f3fe",
+      "toNode": "8ba72a3bc644ff50",
+      "toSide": "top"
+    },
+    {
+      "color": "4",
+      "fromNode": "936bf5ec2a6daba6",
+      "fromSide": "bottom",
+      "id": "4ea048bd20cf1004",
+      "toNode": "226e1366c139b74b",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "375c7ff4876702f0",
+      "text": "**<div style=\"text-align: center;\">اورانوس</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 1340
+    },
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "a8c70a4d663ccd9f",
+      "text": "**<div style=\"text-align: center;\">ناهید (زهره)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": 1260
+    },
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "39ba41fd001ac910",
+      "text": "**<div style=\"text-align: center;\">کیوان (زحل)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 1260
+    },
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "6d724e47ae310223",
+      "text": "**<div style=\"text-align: center;\">زمین (ارض)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": 1340
+    },
+    {
+      "color": "#6799fe",
+      "height": 120,
+      "id": "b638d22e07d107d8",
+      "text": "#### <div style=\"text-align: center;\">سیارات گازی (بیرونی)</div>",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 980
+    },
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "1067e9cb91f2364a",
+      "text": "**<div style=\"text-align: center;\">مشتری (برجیس)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 1180
+    },
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "8ba72a3bc644ff50",
+      "text": "**<div style=\"text-align: center;\">تیر (عطارد)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": 1180
+    },
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "ea454b48dfeb13ff",
+      "text": "**<div style=\"text-align: center;\">نپتون</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": 1420
+    },
+    {
+      "color": "#6799fe",
+      "height": 60,
+      "id": "4a435ff9fae28c69",
+      "text": "**<div style=\"text-align: center;\">بهرام (مریخ)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": 1420
+    },
+    {
+      "color": "#6799fe",
+      "height": 120,
+      "id": "226e1366c139b74b",
+      "text": "#### <div style=\"text-align: center;\">سیارات سنگی (درونی)</div>",
+      "type": "text",
+      "width": 260,
+      "x": -260,
+      "y": 980
+    },
+    {
+      "color": "#6799fe",
+      "height": 120,
+      "id": "43a055d35ee0fb3a",
+      "text": "**<div style=\"text-align: center;\"> ممکن است دارای قمر باشد</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -410,
+      "y": 420
+    },
+    {
+      "color": "#6799fe",
+      "height": 120,
+      "id": "fcd546002d71d4b9",
+      "text": "**<div style=\"text-align: center;\">دور یک ستاره در حال گردش‌اند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -410,
+      "y": 560
+    },
+    {
+      "color": "#6799fe",
+      "height": 120,
+      "id": "a82267aa460a50d7",
+      "text": "**<div style=\"text-align: center;\">از خود نور ندارند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -410,
+      "y": 700
+    },
+    {
+      "color": "#6799fe",
+      "height": 80,
+      "id": "936bf5ec2a6daba6",
+      "text": "### <div style=\"text-align: center;\">سیارات منظومه شمسی</div>",
+      "type": "text",
+      "width": 260,
+      "x": -410,
+      "y": 839
+    },
+    {
+      "color": "1",
+      "height": 260,
+      "id": "be29be9ca6c4ddba",
+      "text": "**<div style=\"text-align: center;\">کاربرد ماهواره‌ها (قمرهای مصنوعی): مخابراتی (ارتباطات راداری)، هواشناسی (پیش بینی هوا)، موقعیت یابی جهانی (GPS) (پیدا کردن موقعیت دقیق یک نقطه با اشتراک 3 ماهواره)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -690,
+      "y": 560
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "45e8ce1e178e8a01",
+      "text": "**<div style=\"text-align: center;\">اجرامی به غیر از سیارات و قمرها که به دور خورشید می‌چرخند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -970,
+      "y": 140
+    },
+    {
+      "color": "2",
+      "height": 120,
+      "id": "07502f4e51a980fd",
+      "text": "**<div style=\"text-align: center;\">90% آنها در کمربند سیارکی (بین مدار مریخ و مشتری)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -970,
+      "y": 280
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "8314325f71ca3c73",
+      "text": "## <div style=\"text-align: center;\">سیارک‌ها</div>",
+      "type": "text",
+      "width": 200,
+      "x": -940,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "a8931dfb008d76de",
+      "text": "**<div style=\"text-align: center;\">تعریف قمر: جرمی در آسمان که به دلیل گرانش یک سیاره، به دور آن بچرخد</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -690,
+      "y": 140
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "986a739f1b80407a",
+      "text": "**<div style=\"text-align: center;\">مدار ماه: بیضی با فاصله متوسط 380000 کیلومتر</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -690,
+      "y": 420
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "78933e80915dfc8c",
+      "text": "## <div style=\"text-align: center;\">قمرها</div>",
+      "type": "text",
+      "width": 200,
+      "x": -660,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "3c29817a18c0469c",
+      "text": "## <div style=\"text-align: center;\">شهاب سنگ‌ها</div>",
+      "type": "text",
+      "width": 200,
+      "x": -1220,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "07aad2768327c100",
+      "text": "## <div style=\"text-align: center;\">سفر به فضا</div>",
+      "type": "text",
+      "width": 200,
+      "x": -1500,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "3240a0052d90481c",
+      "text": "**<div style=\"text-align: center;\">تنها قمر طبیعی زمین، ماه است ($1 \\frac {Km} {s}$)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -690,
+      "y": 280
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "9aa6cbfd0ca0a3d5",
+      "text": "**<div style=\"text-align: center;\">اجرامی که از فضا وارد جو زمین می‌شوند که اکثرا در اقیانوس‌ها سقوط می‌کنند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -1250,
+      "y": 140
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "25c7c531cd0c7719",
+      "text": "**<div style=\"text-align: center;\"> فقط مریخ قابلیت بررسی شرایط حیات را دارد</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -1530,
+      "y": 140
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "cb475939bda8c6a8",
+      "text": "**<div style=\"text-align: center;\">تیرهای درخشان نوری از جنس سنگ و غبار که در شب‌های آسمان دیده می‌شوند، شهاب نام دارند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -1250,
+      "y": 280
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "c9fc54fca3066d72",
+      "text": "**<div style=\"text-align: center;\"> مسئله پیدا کردن حیات در هزاران سیارات فرا خورشیدی کشف شده</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -1530,
+      "y": 280
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "a7b50d1875ed1b1a",
+      "text": "**<div style=\"text-align: center;\">تلاش برای ارسال سفینه‌های فضایی برای کسب اطلاعات بیشتر</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -1530,
+      "y": 420
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "4b21dc2246b3516d",
+      "text": "**<div style=\"text-align: center;\">عکاسی با تلسکوپ‌های فضایی از فضای میان ستاره‌ای</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -1530,
+      "y": 560
+    },
+    {
+      "height": 60,
+      "id": "7fbe60ce73135124",
+      "text": "",
+      "type": "text",
+      "width": 250,
+      "x": -1625,
+      "y": -480
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "ba50d32e5e7ec7bf",
+      "text": "**<div style=\"text-align: center;\">رصد آسمان در رصدخانه و اسطرلاب (تعیین زاویه و ارتفاع)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 990,
+      "y": 420
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "e27df26f42061aa7",
+      "text": "**<div style=\"text-align: center;\">کیهان از میلیاردها میلیارد کهکشان درست شده</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 710,
+      "y": 420
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "6b35325b3ef76d77",
+      "text": "**<div style=\"text-align: center;\">تنها ستاره منظومه شمسی</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 560
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "3f920e76fbc3c588",
+      "text": "**<div style=\"text-align: center;\"> تامین کننده نور و گرمای زمین (انرژی زمین)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 700
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "bcd72b2649ccab03",
+      "text": "**<div style=\"text-align: center;\"> نزدیک‌ترین ستاره به زمین</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 839
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "2edbde2b17423d94",
+      "text": "**<div style=\"text-align: center;\">ترکیب اصلی آن از هیدروژن و هلیم است \n<br>\n($2H -> He$)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 980
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "3ff094376e39ad7f",
+      "text": "**<div style=\"text-align: center;\">جرم خورشید به طور مداوم به انرژی (گرما و نور) تبدیل می‌شود</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 1120
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "42b38ab7034b4af3",
+      "text": "**<div style=\"text-align: center;\">فاصله خورشید تا زمین حدود `million KM 150` است که به آن یک واحد نجومی (AU) می گویند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 1260
+    },
+    {
+      "color": "5",
+      "height": 80,
+      "id": "80eaf4c9194f5367",
+      "text": "### <div style=\"text-align: center;\">خورشید</div>",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 420
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "39c5e99d51225a8c",
+      "text": "## <div style=\"text-align: center;\">کهکشان‌ها</div>",
+      "type": "text",
+      "width": 200,
+      "x": 740,
+      "y": 0
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "5eb2637a0f60a27b",
+      "text": "## <div style=\"text-align: center;\">تاریخچه</div>",
+      "type": "text",
+      "width": 200,
+      "x": 1020,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "5aa927d169160081",
+      "text": "**<div style=\"text-align: center;\"> شکوفایی: 1000 سال پیش، مسلمانان</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 990,
+      "y": 140
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "9e7e1be37d96f507",
+      "text": "**<div style=\"text-align: center;\">مجموعه‌ای عظیم از ستارگان، گازها، گرد و غبار و فضای بین ستاره‌ای</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 710,
+      "y": 140
+    },
+    {
+      "color": "4",
+      "height": 120,
+      "id": "9596159ce5af4e4a",
+      "text": "**<div style=\"text-align: center;\">منظومه شمسی: بخش بسیار کوچکی از کهکشان راه شیری</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 710,
+      "y": 280
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "51e7a44a670dd817",
+      "text": "**<div style=\"text-align: center;\">اولین تلسکوپ، گالیله (400 سال پیش)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 990,
+      "y": 280
+    },
+    {
+      "color": "3",
+      "height": 120,
+      "id": "64b90a1dc5538177",
+      "text": "**<div style=\"text-align: center;\">رصدخانه مراغه، خواجه نصیرالدین طوسی (قرن هفتم هجری)</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 990,
+      "y": 560
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "144dcfb08de9d357",
+      "text": "## <div style=\"text-align: center;\">ستارگان</div>",
+      "type": "text",
+      "width": 200,
+      "x": 460,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "11f3d58512f16f20",
+      "text": "**<div style=\"text-align: center;\">سال نوری: فاصله‌ای که نور در مدت یک سال طی می‌کند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 140
+    },
+    {
+      "color": "5",
+      "height": 120,
+      "id": "2ab273c4e5a1970d",
+      "text": "**<div style=\"text-align: center;\">ستاره‌ها از زمان تولد تا میلیاردها سال بعد که می‌میرند، در حال تغییرند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 430,
+      "y": 280
+    },
+    {
+      "color": "1",
+      "height": 80,
+      "id": "4eafd218f15449a9",
+      "text": "# <div style=\"text-align: center;\">علم نجوم</div>",
+      "type": "text",
+      "width": 200,
+      "x": -240,
+      "y": -320
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "09573fd7204ee9a7",
+      "text": "## <div style=\"text-align: center;\">سیارات</div>",
+      "type": "text",
+      "width": 200,
+      "x": -380,
+      "y": 0
+    },
+    {
+      "color": "#6799fe",
+      "height": 260,
+      "id": "5343999769fe9c3e",
+      "text": "**<div style=\"text-align: center;\">تعریف سیاره: جرمی که در مداری به دور ستاره‌ای می‌چرخد و دارای جرم کافی برای ایجاد شکل کروی و جذب اجرام کوچکتر اطراف مدار خود را داشته باشد</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -410,
+      "y": 140
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "c7d24f5df97cb201",
+      "text": "## <div style=\"text-align: center;\">صورت‌های فلکی</div>",
+      "type": "text",
+      "width": 200,
+      "x": 180,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "b04035d34d1dd497",
+      "text": "**<div style=\"text-align: center;\">نحوه شکل گیری و موقعیت ستارگان در آسمان</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 150,
+      "y": 140
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "8b758c92d2eb8a28",
+      "text": "**<div style=\"text-align: center;\"> قابلیت رؤیت در زمان و مکان‌های خاص</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 150,
+      "y": 280
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "b2c3f1f4c9f334f6",
+      "text": "**<div style=\"text-align: center;\">استفاده برای تقویم و جهت یابی در شب</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 150,
+      "y": 420
+    },
+    {
+      "color": "2",
+      "height": 80,
+      "id": "e6f0eaaec3f97c1a",
+      "text": "## <div style=\"text-align: center;\">سامانه خورشیدی</div>",
+      "type": "text",
+      "width": 200,
+      "x": -100,
+      "y": 0
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "1dd60eb0852fa422",
+      "text": "**<div style=\"text-align: center;\">آلودگی نوری مانع دیدن صورت‌های فلکی در شهرها می‌شود</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 150,
+      "y": 560
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "a080b46219b824a2",
+      "text": "**<div style=\"text-align: center;\">آلودگی هوا و ابرها نیز مانع رصد هستند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": 150,
+      "y": 700
+    },
+    {
+      "color": "#febc86",
+      "height": 260,
+      "id": "6de4564e8abb78ab",
+      "text": "**<div style=\"text-align: center;\">هشت سیاره، نزدیک 200 قمر طبیعی، خرده سیاره‌ها و میلیون‌ها سیارک و اجسام سنگی دیگر که همگی به دور خورشید می‌گردند</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -130,
+      "y": 140
+    },
+    {
+      "color": "#febc86",
+      "height": 120,
+      "id": "8f587e715c1298fe",
+      "text": "**<div style=\"text-align: center;\">منظومه شمسی در ابر عظیم و چرخانی متشکل از گاز و غبار به نام سحابی خورشیدی قرار دارد</div>**",
+      "type": "text",
+      "width": 260,
+      "x": -130,
+      "y": 420
+    }
+  ]
+}
