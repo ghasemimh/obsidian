@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "27c3fe9241e39fe9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2a083a6d0cc6ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bab9b359df1917f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10dd244780b9a23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea47e3b952cbf1e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a08a34afb2cc6c0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb4b5d520ac2dbff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0d2b8cc606034e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a572cb48cf73f0a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "989602be4e859cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0404246d289edeb6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c174a18aea01501a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "189190e44610098c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cf80521379cdf30",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "17b1f73570a76c77",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9494cf857b8b55db",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "calendar",
+              "title": "Persian Calendar"
+            }
+          },
+          {
+            "id": "d9b51ae643b1e0ba",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "persian-calendar:روزنوشت امروز": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7bab9b359df1917f",
+  "lastOpenFiles": [
+    "چارچوب پروژۀ QKD-Kit.md",
+    "Untitled.md",
+    "New Text Document.txt",
+    "کتاب نیرو و حرکت - نعمت‌الله گلستانیان.md",
+    "خلاصه و سرفصل‌های مهم دوره مقدمه‌ای بر فیزیک مدرن.md",
+    "چیزای باحال فیزیک.md",
+    "obsidian/themes/Tokyo Night/theme.css",
+    "obsidian/themes/Tokyo Night/manifest.json",
+    "obsidian/themes/Minimal/theme.css",
+    "obsidian/themes/Minimal/manifest.json",
+    "obsidian/plugins/obsidian-charts/styles.css",
+    "obsidian/plugins/obsidian-charts/manifest.json",
+    "obsidian/plugins/obsidian-charts/main.js",
+    "obsidian/plugins/templater-obsidian/styles.css",
+    "obsidian/plugins/templater-obsidian/manifest.json",
+    "Excalidraw/Drawing 2025-08-10 09.00.57.excalidraw.md",
+    "کلاس نهم/علوم/نجوم - زمین.canvas",
+    "کلاس نهم/علوم/خلاصه شیمی نهم.md",
+    "کلاس نهم/علوم/خلاصه زیست نهم.md",
+    "کلاس نهم/علوم/خلاصه زمین‌شناسی، نجوم.md",
+    "کلاس نهم/علوم/Pasted image 20250529145455.png",
+    "کلاس نهم/علوم/Pasted image 20250529145448.png",
+    "BB84 - QKD Protocol.md",
+    "BB84 - QKD.md",
+    "کلاس نهم/آمادگی دفاعی.md",
+    "کلاس نهم/اجتماعی نهم.md",
+    "کلاس نهم/علوم نهم/نجوم - زمین.canvas",
+    "کلاس نهم/علوم نهم/خلاصه شیمی نهم.md",
+    "کلاس نهم/علوم نهم/خلاصه زیست نهم.md",
+    "کلاس نهم/علوم نهم/خلاصه زمین‌شناسی، نجوم.md",
+    "کلاس نهم/علوم نهم/Pasted image 20250529145455.png",
+    "کلاس نهم/علوم نهم/Pasted image 20250529145448.png",
+    "BB84.md",
+    "داستان کوانتوم.md",
+    "آمادگی دفاعی.md",
+    "اجتماعی نهم.md",
+    "Obsidian.md",
+    "علوم نهم/نجوم - زمین.canvas",
+    "علوم نهم/خلاصه شیمی نهم.md",
+    "علوم نهم/خلاصه زیست نهم.md",
+    "علوم نهم/خلاصه زمین‌شناسی، نجوم.md",
+    "علوم نهم/Pasted image 20250529145455.png",
+    "علوم نهم/Pasted image 20250529145448.png",
+    "Clippings/کنترل‌کننده پی‌آی‌دی - ویکی‌پدیا، دانشنامهٔ آزاد.md",
+    "Welcome.md"
+  ]
+}
