@@ -1,0 +1,11 @@
+{
+  "theme": "system",
+  "accentColor": "",
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "textFontFamily": "Vazirmatn",
+  "enabledCssSnippets": [
+    "nobreak"
+  ]
+}
