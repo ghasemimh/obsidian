@@ -11,10 +11,15 @@
             "id": "7bab9b359df1917f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -164,8 +169,8 @@
             "state": {
               "type": "persian-calendar",
               "state": {},
-              "icon": "calendar",
-              "title": "Persian Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -174,12 +179,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ca4b0f14c56b7d17",
+            "type": "leaf",
+            "state": {
+              "type": "persian-calendar",
+              "state": {},
+              "icon": "calendar",
+              "title": "Persian Calendar"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -203,10 +218,10 @@
   },
   "active": "7bab9b359df1917f",
   "lastOpenFiles": [
+    "کتاب نیرو و حرکت - نعمت‌الله گلستانیان.md",
     "چارچوب پروژۀ QKD-Kit.md",
     "Untitled.md",
     "New Text Document.txt",
-    "کتاب نیرو و حرکت - نعمت‌الله گلستانیان.md",
     "خلاصه و سرفصل‌های مهم دوره مقدمه‌ای بر فیزیک مدرن.md",
     "چیزای باحال فیزیک.md",
     "obsidian/themes/Tokyo Night/theme.css",
