@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eba8a4d013f62587",
+        "id": "c340845d1e0f720c",
         "type": "tabs",
         "children": [
           {
-            "id": "c842b727407b80a9",
+            "id": "6a215b54506cf322",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "کتاب نیرو و حرکت - نعمت‌الله گلستانیان.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "کتاب نیرو و حرکت - نعمت‌الله گلستانیان"
             }
           }
         ]
@@ -211,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c842b727407b80a9",
+  "active": "6a215b54506cf322",
   "lastOpenFiles": [
     "شاخه‌های فیزیک.md",
     "Modernphysicsfields.svg",
