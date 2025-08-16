@@ -4,19 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c340845d1e0f720c",
+        "id": "e8198d656efe692b",
         "type": "tabs",
         "children": [
           {
-            "id": "6a215b54506cf322",
+            "id": "cbf09e37964b8933",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Modernphysicsfields.svg"
+                "file": "کتاب نیرو و حرکت - نعمت‌الله گلستانیان.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-image",
-              "title": "Modernphysicsfields"
+              "icon": "lucide-file",
+              "title": "کتاب نیرو و حرکت - نعمت‌الله گلستانیان"
             }
           }
         ]
@@ -213,11 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a215b54506cf322",
+  "active": "cbf09e37964b8933",
   "lastOpenFiles": [
+    "Modernphysicsfields.svg",
     "کتاب نیرو و حرکت - نعمت‌الله گلستانیان.md",
     "شاخه‌های فیزیک.md",
-    "Modernphysicsfields.svg",
     "چیزای باحال فیزیک.md",
     "خلاصه و سرفصل‌های مهم دوره مقدمه‌ای بر فیزیک مدرن.md",
     "کلاس نهم/علوم/خلاصه زیست نهم.md",
